@@ -38,6 +38,7 @@ public class Sample {
 	@Test(priority=-12)
 	private void test3() {
 		System.out.println("Test3");
+		System.out.println("Test5");
 	}
 
 }
